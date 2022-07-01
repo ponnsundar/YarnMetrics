@@ -9,7 +9,7 @@
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
-		<hadoop.version>2.6.0-cdh5.14.4</hadoop.version>
+		<hadoop.version>2.7.0</hadoop.version>
 		<kafka.version>2.1.0-cdh6.2.0</kafka.version>
 	
 		<encoding>UTF-8</encoding>
